@@ -39,3 +39,15 @@ There are 4 character to summon
 - Frog Dude: the number of the first element is between 11 to 20
 - Blue Dude: the number of the first element is between 21 to 30
 - Cosplay Dude: the number of the first element is more than 31
+
+4. To change the condition, open the Condition object in Unity window and add any item with any name and counts
+
+- E.g.1 Name: Apple, Count: 10 --> Mask Dude
+- E.g.2 Name: Apple, Count: 15 --> Frog Dude
+- E.g.3 Name: Apple, Count: 23 --> Blue Dude
+- E.g.4 Name: Apple, Count: 40 --> Cosplay Dude
+
+### Coming Feature
+
+1. The coming feature is conditions for each characters
+2. All the conditions will be manage within the Condition Manager
