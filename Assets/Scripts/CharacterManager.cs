@@ -25,5 +25,5 @@ public class Character
     public string Description;
     public GameObject CharactorObject;
     public Item Drop;
-    public int point;
+    public int Point;
 }
